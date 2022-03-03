@@ -16,11 +16,11 @@
 <a href = "https://www.linkedin.com/in/sonjyoti-rabha-5b54861b3/">
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
 </a>
-<a href = "https://www.linkedin.com/in/https://www.facebook.com/son.jyoti.58/">
+<a href = "https://www.facebook.com/son.jyoti.58/">
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/facebook.svg" />
 </a>
 </a>
-<a href = "https://www.linkedin.com/in/https://sonjyoti33@gmail.com">
+<a href = "sonjyoti33@gmail.com">
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" />
 </a>
 

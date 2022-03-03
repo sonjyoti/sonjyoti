@@ -7,3 +7,6 @@
 
 🤝**Let's connect :**
 
+<a href = "https://twitter.com/SonjyotiR">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />
+</a>

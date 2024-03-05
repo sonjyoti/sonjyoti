@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sonjyoti
-- 👀 I’m interested in android, sports and governments.
+- 👀 I’m interested in android, sports and fiction.
 - 🌱 I’m currently pursuing my Bachelor's in Computer and working on problem solving in Data Structures and Algorithms
 - 🫡 I’m looking for collaborations and peers to enhance my skills and connections. Feel free to connect.
-- ⚡ I'm obsessed with seeing me learning and growing everyday
+- ⚡ Like to watch myself learning and growing.
 
 🤝**Let's connect :**
 

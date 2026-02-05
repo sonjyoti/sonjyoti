@@ -1,25 +1,70 @@
-- 👋 Hi, I’m @sonjyoti
-- 👀 I’m interested in android, sports and fiction.
-- 🌱 I’m currently pursuing my Bachelor's in Computer and working on problem solving in Data Structures and Algorithms
-- 🫡 I’m looking for collaborations and peers to enhance my skills and connections. Feel free to connect.
-- ⚡ Like to watch myself learning and growing.
+# 👋 Hi, I'm Sonjyoti Rabha
 
-🤝**Let's connect :**
+🎓 Final-year Post Graduate student  
+💻 Backend-focused developer specializing in **Java, Spring Boot and database-driven systems**  
+🚀 Pursuing MCA at **Banaras Hindu University (BHU)**
 
-<a href = "https://www.instagram.com/xonzyoti/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />
-</a>
-<a href = "https://twitter.com/SonjyotiR">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />
-</a>
-<a href = "https://www.linkedin.com/in/sonjyoti-rabha-5b54861b3/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
-</a>
-<a href = "https://www.facebook.com/son.jyoti.58/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/facebook.svg" />
-</a>
-</a>
-<a href = "mailto:sonjyoti33@gmail.com?">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" />
-</a>
+---
+
+## 👨‍💻 About Me
+
+I am a backend developer with strong interest in building **robust, scalable and maintainable server-side systems** using Java and the Spring ecosystem.
+
+I mainly work on:
+- designing clean REST APIs
+- building database-centric applications
+- implementing validation, workflows and transactional logic
+- structuring projects for real-world backend use
+
+I enjoy working on system design, data modeling and backend performance rather than frontend-heavy development.
+
+---
+
+## 🔧 Core Focus
+
+- Backend Engineering with Java
+- Spring Boot application development
+- Database design and transactional systems
+- API design and integration
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java, SQL, PHP
+
+**Backend & Frameworks**
+- Spring Boot
+- RESTful APIs
+- WebSocket
+
+**Databases**
+- MySQL
+- PostgreSQL
+
+**Build & Tools**
+- Maven
+- Git & GitHub
+- Docker
+
+---
+
+## 🎯 Current Goals
+
+- Build production-grade Spring Boot services
+- Improve backend system design and database modeling skills
+- Learn more about distributed backend architectures and microservices
+
+---
+
+## 📫 Connect with Me
+
+- Email: [sonjyoti](mailto:sonjyotimca@bhu.ac.in)
+- LinkedIn: [Sonjyoti Rabha](https://www.linkedin.com/in/sonjyoti-rabha/)
+- Instagram: [xonzyoti](https://www.instagram.com/xonzyoti)
+
+---
+
+⭐ I am interested in backend projects focused on **Java, Spring Boot and database systems**.
 

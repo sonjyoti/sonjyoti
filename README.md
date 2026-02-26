@@ -1,70 +1,58 @@
 # 👋 Hi, I'm Sonjyoti Rabha
 
-🎓 Final-year Post Graduate student  
-💻 Backend-focused developer specializing in **Java, Spring Boot and database-driven systems**  
-🚀 Pursuing MCA at **Banaras Hindu University (BHU)**
+🎓 Final-year MCA Student at Banaras Hindu University (BHU)  
+💻 Backend Developer | Java & Spring Boot  
+🚀 Focused on building scalable, database-driven backend systems  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a backend developer with strong interest in building **robust, scalable and maintainable server-side systems** using Java and the Spring ecosystem.
+I specialize in building **robust, scalable and production-ready backend systems** using Java and the Spring ecosystem.
 
-I mainly work on:
-- designing clean REST APIs
-- building database-centric applications
-- implementing validation, workflows and transactional logic
-- structuring projects for real-world backend use
+- 🔹 Design clean REST APIs  
+- 🔹 Build database-centric applications  
+- 🔹 Implement transactional workflows & validation  
+- 🔹 Focus on system design and backend performance  
 
-I enjoy working on system design, data modeling and backend performance rather than frontend-heavy development.
-
----
-
-## 🔧 Core Focus
-
-- Backend Engineering with Java
-- Spring Boot application development
-- Database design and transactional systems
-- API design and integration
+I prefer solving **backend architecture and data modeling problems** over frontend-heavy development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech and Tools
 
-**Languages**
-- Java, SQL, PHP
-
-**Backend & Frameworks**
-- Spring Boot
-- RESTful APIs
-- WebSocket
-
-**Databases**
-- MySQL
-- PostgreSQL
-
-**Build & Tools**
-- Maven
-- Git & GitHub
-- Docker
+<p align="left">
+  <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40"/>
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img title="YOLO (You Only Look Once)" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*bSLNlG7crv-p-m4LVYYk3Q.png" width="40"/>
+  <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
 
 ---
 
 ## 🎯 Current Goals
 
-- Build production-grade Spring Boot services
-- Improve backend system design and database modeling skills
-- Learn more about distributed backend architectures and microservices
+- 🏗️ Build production-grade Spring Boot services  
+- 🧠 Improve backend system design  
+- 🌐 Learn distributed systems & microservices  
+- ⚡ Optimize backend performance  
 
 ---
 
 ## 📫 Connect with Me
 
-- Email: [sonjyoti](mailto:sonjyotimca@bhu.ac.in)
-- LinkedIn: [Sonjyoti Rabha](https://www.linkedin.com/in/sonjyoti-rabha/)
-- Instagram: [xonzyoti](https://www.instagram.com/xonzyoti)
+- 📧 Email: sonjyotimca@bhu.ac.in  
+- 💼 LinkedIn: https://www.linkedin.com/in/sonjyoti-rabha/  
+- 📸 Instagram: https://www.instagram.com/xonzyoti  
 
 ---
 
-⭐ I am interested in backend projects focused on **Java, Spring Boot and database systems**.
-
+⭐ Interested in backend projects focused on Java, Spring Boot and database systems.

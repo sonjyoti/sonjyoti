@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sonjyoti Rabha
 
-🎓 Final-year MCA Student at Banaras Hindu University (BHU)  
+🎓 MCA Post-Graduate from Banaras Hindu University (BHU)  
 💻 Backend Developer | Java & Spring Boot  
 🚀 Focused on building scalable, database-driven backend systems  
 
